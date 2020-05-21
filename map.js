@@ -6,7 +6,6 @@ const map = [
   ['E1', 'E2', 'E3', 'E4', 'E5']];
 
 /*
-
 const generateMap = (width, height) => {
   const arr = new Array(height);
   for (let i = 0; i < arr.length; i++) {
