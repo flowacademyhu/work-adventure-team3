@@ -1,0 +1,24 @@
+{
+  "name": "work-adventure-team3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "start": "node game.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flowacademyhu/work-adventure-team3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flowacademyhu/work-adventure-team3/issues"
+  },
+  "homepage": "https://github.com/flowacademyhu/work-adventure-team3#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "readline-sync": "^1.4.10",
+    "table": "^5.4.6"
+  }
+}
